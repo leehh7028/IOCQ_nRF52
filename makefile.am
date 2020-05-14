@@ -1,0 +1,2 @@
+bin_PROGRAMS = beacon
+beacon_SOURCES = beacon.c
